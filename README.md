@@ -1,2 +1,2 @@
-# condetodo.holis.github.io
+holis.github.io
 Como dice el título, vamos con de todo
